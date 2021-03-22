@@ -8,7 +8,7 @@
 </template>
 
 <script type="text/babel">
-  import Popper from 'element-ui/src/utils/vue-popper';
+  import Popper from 'element-test/src/utils/vue-popper';
 
   export default {
     name: 'ElSelectDropdown',

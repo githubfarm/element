@@ -38,9 +38,9 @@
 </template>
 
 <script>
-  import Popup from 'element-ui/src/utils/popup';
-  import Migrating from 'element-ui/src/mixins/migrating';
-  import emitter from 'element-ui/src/mixins/emitter';
+  import Popup from 'element-test/src/utils/popup';
+  import Migrating from 'element-test/src/mixins/migrating';
+  import emitter from 'element-test/src/mixins/emitter';
 
   export default {
     name: 'ElDialog',
