@@ -109,10 +109,6 @@
               "title": "Switch 开关"
             },
             {
-              "path": "/slider",
-              "title": "Slider 滑块"
-            },
-            {
               "path": "/time-picker",
               "title": "TimePicker 时间选择器"
             },
@@ -405,10 +401,6 @@
             {
               "path": "/switch",
               "title": "Switch"
-            },
-            {
-              "path": "/slider",
-              "title": "Slider"
             },
             {
               "path": "/time-picker",
@@ -705,10 +697,6 @@
               "title": "Switch"
             },
             {
-              "path": "/slider",
-              "title": "Slider"
-            },
-            {
               "path": "/time-picker",
               "title": "TimePicker"
             },
@@ -1001,10 +989,6 @@
             {
               "path": "/switch",
               "title": "Switch"
-            },
-            {
-              "path": "/slider",
-              "title": "Slider"
             },
             {
               "path": "/time-picker",

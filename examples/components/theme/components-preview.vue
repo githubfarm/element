@@ -139,10 +139,6 @@
         inactive-text="Pay by year">
       </el-switch>
     </el-row>
-    <h4>Slider</h4>
-    <el-row style="width: 380px">
-      <el-slider v-model="slider"></el-slider>
-    </el-row>
     <h4>DatePicker</h4>
     <el-row>
       <el-date-picker v-model="datePicker" type="date"></el-date-picker>
@@ -451,7 +447,6 @@ export default {
       ],
       cascaderValue: [],
       switchValue: true,
-      slider: 28,
       datePicker: '',
       rate: null,
       transferData: (() => {

@@ -41,7 +41,6 @@
   "tree": "./packages/tree/index.js",
   "alert": "./packages/alert/index.js",
   "notification": "./packages/notification/index.js",
-  "slider": "./packages/slider/index.js",
   "loading": "./packages/loading/index.js",
   "icon": "./packages/icon/index.js",
   "row": "./packages/row/index.js",

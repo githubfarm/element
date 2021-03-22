@@ -753,24 +753,6 @@ $--card-border-radius: 4px !default;
 /// padding||Spacing|3
 $--card-padding: 20px !default;
 
-/* Slider
---------------------------*/
-/// color||Color|0
-$--slider-main-background-color: $--color-primary !default;
-/// color||Color|0
-$--slider-runway-background-color: $--border-color-light !default;
-$--slider-button-hover-color: mix($--color-primary, black, 97%) !default;
-$--slider-stop-background-color: $--color-white !default;
-$--slider-disable-color: $--color-text-placeholder !default;
-$--slider-margin: 16px 0 !default;
-$--slider-border-radius: 3px !default;
-/// height|1|Other|4
-$--slider-height: 6px !default;
-/// height||Other|4
-$--slider-button-size: 16px !default;
-$--slider-button-wrapper-size: 36px !default;
-$--slider-button-wrapper-offset: -15px !default;
-
 /* Steps
 --------------------------*/
 $--steps-border-color: $--disabled-border-base !default;

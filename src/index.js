@@ -42,7 +42,6 @@ import Tag from '../packages/tag/index.js';
 import Tree from '../packages/tree/index.js';
 import Alert from '../packages/alert/index.js';
 import Notification from '../packages/notification/index.js';
-import Slider from '../packages/slider/index.js';
 import Loading from '../packages/loading/index.js';
 import Icon from '../packages/icon/index.js';
 import Row from '../packages/row/index.js';
@@ -126,7 +125,6 @@ const components = [
   Tag,
   Tree,
   Alert,
-  Slider,
   Icon,
   Row,
   Col,
@@ -246,7 +244,6 @@ export default {
   Tree,
   Alert,
   Notification,
-  Slider,
   Icon,
   Row,
   Col,
